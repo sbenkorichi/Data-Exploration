@@ -1,2 +1,2 @@
 # Data-Exploration
-Collection of free sources that helps in Data Exploration with Python
+Collection of free sources that help in exploring data with Python
