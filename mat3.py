@@ -10,5 +10,4 @@ plt.ylabel('y axis')
 plt.title('Bars Chart')
 plt.legend()
 
-
 plt.show()
