@@ -18,3 +18,5 @@ plt.title('Finished projects')
 plt.legend()
 
 plt.show()
+
+# File 1 and 2 are attached with the same title.
